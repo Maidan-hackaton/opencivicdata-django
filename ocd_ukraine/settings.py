@@ -1,5 +1,5 @@
 """
-Django settings for pupa_ukraine project.
+Django settings for ocd_ukraine project.
 
 For more information on this file, see
 https://docs.djangoproject.com/en/dev/topics/settings/
@@ -51,9 +51,9 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'pupa_ukraine.urls'
+ROOT_URLCONF = 'ocd_ukraine.urls'
 
-WSGI_APPLICATION = 'pupa_ukraine.wsgi.application'
+WSGI_APPLICATION = 'ocd_ukraine.wsgi.application'
 
 
 # Database
