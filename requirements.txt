@@ -1,0 +1,25 @@
+-e git+https://github.com/django/django.git@d107c7bd7db183d85bb3b22e0019b3be8af262d2#egg=Django-origin/stable/1.7.x
+Fabric==1.9.0
+South==0.8.4
+dj-database-url==0.3.0
+django-appconf==0.6
+django-jsonfield==0.9.12
+django-uuidfield==0.5.0
+djorm-pgarray==1.0
+ecdsa==0.11
+-e git+https://github.com/Maidan-hackaton/imago.git@5a254ce6acf9786d70123dc2768dd5e337778b97#egg=imago
+jsonfield==0.9.20
+lxml==3.3.5
+opencivicdata==0.4.5
+paramiko==1.14.0
+psycopg2==2.5.3
+-e git+https://github.com/opencivicdata/pupa.git@5c7295e484e721b9898980befcc45bf34115a46e#egg=pupa-master
+pycrypto==2.6.1
+pyelasticsearch==0.6.1
+pymongo==2.7.1
+-e git://github.com/jamesturk/represent-boundaries.git@dd800aa23c6ffbc500245279c4b163c4cde96069#egg=represent_boundaries-master
+requests==2.3.0
+scrapelib==0.9.1
+simplejson==3.5.2
+six==1.7.2
+validictory==0.9.3
